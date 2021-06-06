@@ -2,10 +2,7 @@ html {
   scroll-behavior: smooth;
 }
 
-main {
-  margin-left: 5rem;
-  padding: 1rem;
-}
+
 
 body {
   margin: 0;
@@ -93,9 +90,7 @@ nav {
   font-size: 1.5rem;
 }
 
-.navbar-brand:hover {
-  font-size: 1.7rem;
-}
+
 .navbar-nav {
   display: flex;
   justify-content: space-around;
