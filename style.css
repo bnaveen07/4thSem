@@ -237,6 +237,19 @@ footer span a {
     color: #4b1d80;
   }
   .main-card .card .content li {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
+  }
+}
+@media screen and (max-width: 350px) {
+  .heading {
+    padding: 0;
+    text-align: center;
+  }
+  .navbar-toggler {
+    text-align: right;
+    margin-left: 85%;
+  }
+.main-card .card .content li {
+    font-size: 0.7rem;
   }
 }
