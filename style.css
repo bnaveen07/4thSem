@@ -244,7 +244,13 @@ footer span a {
     text-align: right;
     margin-left: 85%;
   }
-.main-card .card .content li {
+  .main-card .card .content h2{
+    font-size: 1.3rem;
+  }
+  .main-card .card .content li {
     font-size: 0.7rem;
+  }
+.main-card .card .content li a{
+    font-size: 0.6rem;
   }
 }
